@@ -2,10 +2,10 @@
   "name": "vux",
   "version": "0.0.101",
   "description": "Mobile web UI based on Vue and Weui",
-  "author": "airyland <airyland@qq.com>",
+  "author": "qingmeng <qingmeng@mogujie.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/airyland/vux"
+    "url": "https://github.com/393799203/vux.git"
   },
   "scripts": {
     "dev": "node build/dev-server.js",
